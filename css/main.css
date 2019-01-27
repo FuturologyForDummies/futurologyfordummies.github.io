@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
-@import url('https://fonts.googleapis.com/css?family=Raleway:100,600');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,300,600');
 /*
 * Crystal - Bootstrap 4 Template
 * Build Date: August 2017
@@ -1515,4 +1515,22 @@ footer {
 }
 .post-meta ul li a:hover {
   color: #4676fa;
+}
+
+.card-img-top {
+  width: 100%;
+}
+
+h5.card-title {
+  font-size: 28px;
+  font-weight: 300;
+}
+
+h6.card-subtitle {
+  font-weight: 300;
+}
+
+.card:hover {
+  box-shadow: 2px 2px 20px grey;
+  transform: scale(1.02)
 }
