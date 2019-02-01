@@ -997,6 +997,11 @@ button:focus {
   background-size: cover;
   position: relative;
 }
+.vrar {
+  background: url(../img/bg/processors.jpg) fixed;
+  background-size: cover;
+  position: relative;
+}
 /* ==========================================================================
 13. Testimonial Section Style
  ========================================================================== */
