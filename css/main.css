@@ -1002,6 +1002,16 @@ button:focus {
   background-size: cover;
   position: relative;
 }
+.threed-printing {
+  background: url(../img/bg/processors.jpg) fixed;
+  background-size: cover;
+  position: relative;
+}
+.ai-ml {
+  background: url(../img/bg/processors.jpg) fixed;
+  background-size: cover;
+  position: relative;
+}
 /* ==========================================================================
 13. Testimonial Section Style
  ========================================================================== */
